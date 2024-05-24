@@ -4,4 +4,6 @@ deepface
 opencv-python-headless
 numpy
 gunicorn
-tensorflow-cpu
+tensorflow==2.9.0
+tf-keras==2.9.0
+
